@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: ставки о спорте
-  description: The preview of the Starter theme
+  description: лучший сайт
   extra:
     - name: 'og:type'
       value: website
