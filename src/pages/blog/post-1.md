@@ -7,7 +7,6 @@ date: '2020-04-16'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
-  - src/data/categories/general.yaml
 image: images/1.png
 image_alt: Post 1 placeholder image
 excerpt: >-
