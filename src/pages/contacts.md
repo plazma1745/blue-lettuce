@@ -8,26 +8,6 @@ sections:
     background_color: white
     type: cta_section
   - title: Евгений
-    subtitle: менеджер по продажам
-    actions:
-      - label: '+791289645012'
-        url: lorem-ipsum
-        style: link
-        new_window: false
-        no_follow: false
-        type: action
-    align: left
-    image_alt: lorem-ipsum
-    image_position: left
-    has_background: false
-    background:
-      background_color: white
-      background_image_opacity: 0
-      background_image_size: cover
-      background_image_repeat: no-repeat
-    type: hero_section
-    image: images/gordon-norman.jpg
-  - title: Евгений
     team: []
     type: team_section
 seo:
