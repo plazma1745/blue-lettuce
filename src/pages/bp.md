@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Бетоносмесители
     features: []
     type: features_section
 seo:
