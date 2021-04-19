@@ -3,7 +3,7 @@ title: Вспомогательное оборудование
 sections:
   - title: Вспомогательное оборудование
     features:
-      - title: lorem-ipsum
+      - title: Ленточные конвейеры
         content: >-
           ## Lorem ipsum
 
