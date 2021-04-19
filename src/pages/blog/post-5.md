@@ -1,5 +1,8 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: >-
+  Пуско-наладка вибропресса Урал-М3, ДК-8, БП-1Г-600с на эстакаде с дозатором
+  цемента.
+                          г. Новосибирск.
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
 categories:
