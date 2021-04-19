@@ -14,7 +14,7 @@ sections:
           обучение персонала навыкам работы на вибропрессующем оборудовании.
 
         align: left
-        image: images/feature.svg
+        image: images/home-dop.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
