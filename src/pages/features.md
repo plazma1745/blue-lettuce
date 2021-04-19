@@ -49,7 +49,7 @@ sections:
         image_position: right
         actions:
           - label: Подробнее
-            url: /blog
+            url: /style-guide
             style: primary
     title: Услуги
 seo:
