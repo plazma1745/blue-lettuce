@@ -51,7 +51,7 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
-    title: Усулги
+    title: Услуги
 seo:
   title: Features
   description: This is the features page
