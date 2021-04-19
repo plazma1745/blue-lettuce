@@ -7,7 +7,7 @@ sections:
       Дорожные бордюры, стеновые камни, тратуарная плитка — вот неполный
       перечень изделий, выпускаемых на вибропрессах "Урал"
     actions:
-      - label: Learn More
+      - label: Узнать больше
         url: /features
         style: primary
       - label: Contact Us
