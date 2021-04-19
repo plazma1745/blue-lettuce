@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - title: Бетоносмесители
     features:
-      - title: lorem-ipsum
+      - title: БП-1Г-600
         content: >-
           ## Lorem ipsum
 
