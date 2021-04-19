@@ -1,7 +1,7 @@
 ---
 title: Вспомогательное оборудование
 sections:
-  - title: lorem-ipsum
+  - title: Вспомогательное оборудование
     features: []
     type: features_section
 seo:
