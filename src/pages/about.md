@@ -5,19 +5,7 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: "                    \n\n\n\n##                                                                         Производство\n\nВ технологическую цепочку нашего производства входит современное высокотехнологичное оборудование, такое как:\n\n\n\t\n\t\n\t\n\nТакже производство обладает полным циклом подготовки металла, это гибка, вальцовка, рубка, лентопильные станки и участок окраски.\n\nДанная линейка технологического оборудования позволяет оптимизировать  производственный процесс изготовления оборудования и даже обеспечить потребность предприятий партнёров по обработке металла любой сложности.\n\nВсе работы выполняются высококвалифицированным персоналом со всеми обходимыми допусками\n"
   - type: team_section
     title: Our Team
     team:
