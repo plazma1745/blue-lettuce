@@ -24,7 +24,6 @@ sections:
   - type: team_section
     title: Наши контакты
     team:
-      - src/data/team/miles-tone.yaml
       - src/data/team/dianne-ameter.yaml
       - src/data/team/hanson-deck.yaml
       - src/data/team/gordon-norman.yaml
