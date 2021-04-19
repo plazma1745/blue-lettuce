@@ -27,6 +27,9 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: images/gordon-norman.jpg
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 seo:
   title: ''
   description: ''
