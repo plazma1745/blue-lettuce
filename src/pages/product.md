@@ -3,7 +3,7 @@ title: Продукция
 sections:
   - title: Продукция
     features:
-      - title: и
+      - title: В
         content: >-
           ## Lorem ipsum
 
