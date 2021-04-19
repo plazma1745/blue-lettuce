@@ -4,7 +4,7 @@ sections:
   - title: Наши контакты
     subtitle: Отдел продаж
     actions:
-      - label: lorem-ipsum
+      - label: Отправить запрос
         url: lorem-ipsum
         style: link
         new_window: false
