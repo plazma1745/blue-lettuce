@@ -3,7 +3,7 @@ title: >-
   Пуско-наладка вибропресса Урал-М3, ДК-8, БП-1Г-600с на эстакаде с дозатором
   цемента.
                           г. Новосибирск.
-date: '2020-04-16'
+date: '2020-03-16'
 author: src/data/team/dianne-ameter.yaml
 categories: []
 image_alt: Post 1 placeholder image
