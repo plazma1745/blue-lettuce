@@ -8,10 +8,11 @@ sections:
   - type: features_section
     features:
       - title: Проектируем и изготавливаем на заказ пуансон-матрицы
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |+
+          Для проведения пуско-наладки и шеф-монтажа на предприятие-заказчик 
+          направляется наладчик, который осуществляет пуско-наладочные работы и 
+          обучение персонала навыкам работы на вибропрессующем оборудовании.
+
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
