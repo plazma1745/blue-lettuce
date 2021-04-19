@@ -1,10 +1,6 @@
 ---
 title: Features
 sections:
-  - type: hero_section
-    title: Услуги
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    align: center
   - type: features_section
     features:
       - title: Проектируем и изготавливаем на заказ пуансон-матрицы
