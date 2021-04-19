@@ -8,7 +8,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Вибропресс «Урал-М7»&#xA;&#xA;
+### Вибропресс «Урал-М7»&#xA;&#xA;
 
 Стоимость от 2 800 000 руб.
 
