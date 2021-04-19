@@ -15,7 +15,13 @@ sections:
     type: cta_section
   - title: Евгений
     subtitle: менеджер по продажам
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     align: left
     image_alt: lorem-ipsum
     image_position: left
