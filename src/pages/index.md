@@ -62,7 +62,7 @@ sections:
         image_position: left
         actions:
           - label: Подробнее
-            url: /
+            url: /bp
             style: secondary
       - title: Дозирующие комплексы
         content: >-
