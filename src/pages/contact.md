@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Контакты
     align: center
+    subtitle: Отдел продаж
   - type: contact_section
 seo:
   title: Contact
