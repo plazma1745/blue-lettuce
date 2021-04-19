@@ -1,5 +1,5 @@
 ---
-title: Услу
+title: Услуги
 sections:
   - type: features_section
     features:
