@@ -5,6 +5,13 @@ sections:
     title: Контакты
     align: center
     subtitle: Отдел продаж
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
   - type: contact_section
 seo:
   title: Contact
