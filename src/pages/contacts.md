@@ -1,7 +1,7 @@
 ---
 title: Наши контакты
 sections:
-  - title: lorem-ipsum
+  - title: Наши контакты
     team:
       - src/data/team/hanson-deck.yaml
       - src/data/team/gordon-norman.yaml
