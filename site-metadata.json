@@ -10,7 +10,7 @@
             },
             {
                 "label": "Услуги",
-                "url": "lorem-ipsum",
+                "url": "/features",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
