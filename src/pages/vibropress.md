@@ -1,5 +1,5 @@
 ---
-title: Вибропрес
+title: Вибропресс «Урал-М7»
 seo:
   title: ''
   description: ''
