@@ -13,7 +13,7 @@ sections:
             url: /contact
             style: primary
             new_window: false
-            no_follow: true
+            no_follow: false
             type: action
         type: feature
     type: features_section
