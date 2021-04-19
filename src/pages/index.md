@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Производим вибропрессыавтоматические линии и бетонные заводы
+    title: Производим вибропрессы автоматические линии и бетонные заводы
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
