@@ -16,7 +16,7 @@ sections:
   - title: Евгений
     subtitle: менеджер по продажам
     actions:
-      - label: +
+      - label: '+791286'
         url: lorem-ipsum
         style: link
         new_window: false
