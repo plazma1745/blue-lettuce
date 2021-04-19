@@ -1,6 +1,7 @@
 ---
 title: Наши контакты
-sections: []
+sections:
+  - type: contact_section
 seo:
   title: ''
   description: ''
