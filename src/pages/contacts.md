@@ -1,7 +1,7 @@
 ---
 title: Наши контакты
 sections:
-  - title: lorem-ipsum
+  - title: Наши контакты
     subtitle: lorem-ipsum
     actions: []
     has_background: false
