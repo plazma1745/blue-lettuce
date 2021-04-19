@@ -13,7 +13,7 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
-  - title: lorem-ipsum
+  - title: Евгений
     subtitle: lorem-ipsum
     actions: []
     align: left
