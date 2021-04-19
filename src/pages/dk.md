@@ -1,5 +1,5 @@
 ---
-title: 'Дозирующие '
+title: Дозирующие комплексы
 sections: []
 seo:
   title: ''
