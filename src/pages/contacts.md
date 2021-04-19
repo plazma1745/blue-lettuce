@@ -14,7 +14,7 @@ sections:
     background_color: white
     type: cta_section
   - title: Евгений
-    subtitle: lorem-ipsum
+    subtitle: менеджер по продажам
     actions: []
     align: left
     image_alt: lorem-ipsum
