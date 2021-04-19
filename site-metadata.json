@@ -9,6 +9,14 @@
                 "style": "link"
             },
             {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Услуги",
                 "url": "/features",
                 "style": "link",
