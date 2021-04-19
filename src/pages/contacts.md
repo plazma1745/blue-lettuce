@@ -27,7 +27,7 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: images/gordon-norman.jpg
-  - title: lorem-ipsum
+  - title: Евгений
     team: []
     type: team_section
 seo:
