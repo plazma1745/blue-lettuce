@@ -11,7 +11,7 @@ sections:
         url: /features
         style: primary
       - label: Контакты
-        url: /contact
+        url: /contacts
         style: secondary
     align: left
     image: images/1475130643.jpg
