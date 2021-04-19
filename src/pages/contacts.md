@@ -10,6 +10,9 @@ sections:
   - title: Евгений
     team: []
     type: team_section
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 seo:
   title: ''
   description: ''
