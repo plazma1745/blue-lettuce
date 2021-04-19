@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Производим вибропрессы автоматические линии и бетонные заводы
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Дорожные бордюры, стеновые камни, тратуарная плитка — вот неполный
+      перечень изделий, выпускаемых на вибропрессах "Урал"
     actions:
       - label: Learn More
         url: /features
