@@ -16,7 +16,7 @@ sections:
   - title: Евгений
     subtitle: менеджер по продажам
     actions:
-      - label: lorem-ipsum
+      - label: +
         url: lorem-ipsum
         style: link
         new_window: false
