@@ -4,11 +4,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "+79128960450",
-                "url": "/vibropress",
-                "style": "link"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
