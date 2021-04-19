@@ -22,10 +22,14 @@ sections:
             url: /about
             style: primary
       - title: Гарантийное обслуживание
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Гарантия на все выпускаемое оборудование составляет 12 месяцев. 
+          Возникшая неисправность может быть устранена  двумя способами:
+          Владелец оборудования сам устраняет неисправность с последующим
+          выставление счета на проделанные работы и материалы 
+
+          Поставщику, либо наш специалист в трехдневный счет выезжает на место.
+
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
