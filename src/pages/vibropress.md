@@ -1,5 +1,5 @@
 ---
-title: Вибропрессы
+title: Вибропрес
 seo:
   title: ''
   description: ''
