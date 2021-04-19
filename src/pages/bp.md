@@ -11,7 +11,7 @@ sections:
         actions:
           - label: Запросить предложение
             url: /contact
-            style: primary
+            style: secondary
             new_window: false
             no_follow: false
             type: action
