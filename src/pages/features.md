@@ -48,7 +48,7 @@ sections:
           \- Увеличь производительность своего вибропресса
 
         align: left
-        image: images/feature.svg
+        image: images/kfa-all-2.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
