@@ -4,7 +4,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Продукция",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
