@@ -10,7 +10,6 @@ sections:
   - title: Евгений
     team: []
     type: team_section
-  - type: contact_section
 seo:
   title: ''
   description: ''
