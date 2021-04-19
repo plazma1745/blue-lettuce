@@ -3,7 +3,7 @@ title: Продукция
 sections:
   - title: Продукция
     features:
-      - title: В
+      - title: Вибропрессы
         content: >-
           ## Lorem ipsum
 
