@@ -10,7 +10,7 @@ sections:
         image_position: left
         actions:
           - label: Запросить предложение
-            url: lorem-ipsum
+            url: /contact
             style: link
             new_window: false
             no_follow: false
