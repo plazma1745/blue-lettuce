@@ -1,7 +1,7 @@
 ---
 title: Продукция
 sections:
-  - title: lorem-ipsum
+  - title: Продукция
     features: []
     type: features_section
 seo:
