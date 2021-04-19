@@ -3,13 +3,7 @@ title: Наши контакты
 sections:
   - title: Наши контакты
     subtitle: Отдел продаж
-    actions:
-      - label: Отправить запрос
-        url: lorem-ipsum
-        style: link
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     has_background: false
     background_color: white
     type: cta_section
