@@ -1,7 +1,7 @@
 ---
 title: Вибропресс «Урал-М7»
 seo:
-  title: ''
+  title: Станок для прои
   description: ''
   robots: []
   extra: []
