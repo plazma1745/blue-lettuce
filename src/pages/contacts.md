@@ -2,7 +2,7 @@
 title: Наши контакты
 sections:
   - title: Наши контакты
-    subtitle: lorem-ipsum
+    subtitle: Отдел продаж
     actions: []
     has_background: false
     background_color: white
