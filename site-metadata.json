@@ -28,7 +28,7 @@
             },
             {
                 "label": "Контакты",
-                "url": "/contact",
+                "url": "/contacts",
                 "style": "primary"
             }
         ],
