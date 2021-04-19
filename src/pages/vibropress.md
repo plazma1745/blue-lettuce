@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Вибропрессы
 seo:
   title: ''
   description: ''
