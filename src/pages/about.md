@@ -22,7 +22,7 @@ sections:
       Все работы выполняются высококвалифицированным персоналом со всеми
       обходимыми допусками
   - type: team_section
-    title: Our Team
+    title: Наши контакты
     team:
       - src/data/team/miles-tone.yaml
       - src/data/team/dianne-ameter.yaml
