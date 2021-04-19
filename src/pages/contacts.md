@@ -7,9 +7,6 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
-  - title: Евгений
-    team: []
-    type: team_section
   - title: lorem-ipsum
     team:
       - src/data/team/hanson-deck.yaml
