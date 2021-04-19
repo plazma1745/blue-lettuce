@@ -39,10 +39,14 @@ sections:
             url: /style-guide
             style: primary
       - title: Автоматизация Вашего вибропресса
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >+
+          \- Уйди от "человеческого фактора" при производстве строительных
+          материалов
+
+          \- Сократи обслуживающий персонал и повысь качество своей продукции
+
+          \- Увеличь производительность своего вибропресса
+
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
