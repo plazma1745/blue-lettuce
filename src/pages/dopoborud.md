@@ -4,17 +4,7 @@ sections:
   - title: Вспомогательное оборудование
     features:
       - title: Ленточные конвейеры
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Ленточные конвейеры\n\nЛенточные конвейеры служат для \nтранспортировки бетонной смеси из бетоносмесителя в приемный бункер \nвибропресса. Применяется для оснащения произвоственных линий \nвибропрессов «Урал».\n\n— Длина: 3, 5, 10м.\n\n— Тип ленты: гладкая, со скребками.\n\n\n\nЦена:  **от 134 400 руб.**\n\n\_\n"
         align: left
         image_alt: lorem-ipsum
         image_position: left
