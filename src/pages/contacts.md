@@ -11,7 +11,8 @@ sections:
     team: []
     type: team_section
   - title: lorem-ipsum
-    team: []
+    team:
+      - src/data/team/hanson-deck.yaml
     type: team_section
 seo:
   title: ''
