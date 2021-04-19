@@ -28,10 +28,21 @@ sections:
     title: Продукция
     features:
       - title: Вибропрессы
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Как повысить эффективность работы своего предприятия? — 
+
+
+          С помощью высокопроизводительных и надежных вибропрессов от ООО
+          "Монолит 74"!
+
+
+          *       Широкая линейка выпускаемой продукции. Все производимые
+          изделия соответствуют ГОСТ.
+
+
+          *       Эксплуатационные расходы при работе на наших выбропрессах, в
+          среднем на 30% ниже по сравнению с конкурентами
+
         align: left
         image: images/home-press.jpg
         image_alt: Feature 1 placeholder image
