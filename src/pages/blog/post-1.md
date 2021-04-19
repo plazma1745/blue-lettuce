@@ -6,7 +6,6 @@ title: >-
 date: '2020-04-16'
 author: src/data/team/dianne-ameter.yaml
 categories: []
-image: images/1.png
 image_alt: Post 1 placeholder image
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
