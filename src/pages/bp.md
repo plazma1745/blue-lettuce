@@ -18,7 +18,7 @@ sections:
         type: feature
     type: features_section
 seo:
-  title: ''
+  title: Бетоносмеситель одновальный БП-1Г-600
   description: ''
   robots: []
   extra: []
