@@ -49,7 +49,7 @@ sections:
         image_position: right
         actions:
           - label: подробнее
-            url: /features
+            url: /vibropress
             style: secondary
       - title: Бетоносмесители
         content: >-
