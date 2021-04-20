@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Главная
 sections:
   - type: hero_section
     title: Производим вибропрессы автоматические линии и бетонные заводы
