@@ -91,7 +91,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: ставки о спорте
+  title: Оборудования для производства бордюра
   description: лучший сайт
   extra:
     - name: 'og:type'
