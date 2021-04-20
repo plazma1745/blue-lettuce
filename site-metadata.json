@@ -12,7 +12,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Пресс-формы",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
