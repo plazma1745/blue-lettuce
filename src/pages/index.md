@@ -92,7 +92,7 @@ sections:
     background_color: gray
 seo:
   title: Оборудования для производства бордюра
-  description: лучший сайт
+  description: Станки для производства дорожного бордюра
   extra:
     - name: 'og:type'
       value: website
