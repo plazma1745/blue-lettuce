@@ -82,7 +82,7 @@ sections:
   - type: cta_section
     title: 'Запросите цены, условия, сроки поставки'
     actions:
-      - label: Learn More
+      - label: Запросить
         url: /features
         style: primary
     has_background: true
