@@ -73,7 +73,7 @@ sections:
         image_position: right
         actions:
           - label: Подробнее
-            url: /features
+            url: /dk
             style: secondary
   - type: blog_feed_section
     title: Что нового
