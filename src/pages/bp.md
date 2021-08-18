@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: bp
 sections:
   - title: Бетоносмесители
     features:
