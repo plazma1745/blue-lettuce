@@ -39,8 +39,7 @@
                 "url": "/contacts",
                 "style": "primary"
             }
-        ],
-        "logo": "images/logo-phone.png"
+        ]
     },
     "footer": {
         "has_nav": true,
